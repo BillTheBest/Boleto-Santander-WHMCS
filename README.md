@@ -1,5 +1,5 @@
 # Boleto-Santander-WHMCS
-Este repositório tem como objetivo o desenvolvimento para a carteira (CSR - 101) de boletos do Santander.
+Este repositório tem como objetivo fornecer a documetação para desenvolvimento de boletos do Santander carteira CSR e Cobrança Online.
 
 
-No momento está em fase de desenvolvimento, portante não podemos garantir o seu funcionado. Quando o projeto estiver totalmente desenvolvido poderá utilizar normalmente.
+Todo e qualquer arquivo aqui contido é enviado pelo Santander, não sendo responsabilidade da TecSecret textos e demais conteúdo dos mesmos.
